@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IIIT-Verse/static/css/main.b6adece2.css",
+    "main.js": "/IIIT-Verse/static/js/main.22d61e15.js",
+    "static/media/bg2.jpg": "/IIIT-Verse/static/media/bg2.8d410efc7a6606aba081.jpg",
+    "static/media/bg.jpg": "/IIIT-Verse/static/media/bg.6a4fe576f014b412fa36.jpg",
+    "index.html": "/IIIT-Verse/index.html",
+    "main.b6adece2.css.map": "/IIIT-Verse/static/css/main.b6adece2.css.map",
+    "main.22d61e15.js.map": "/IIIT-Verse/static/js/main.22d61e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6adece2.css",
+    "static/js/main.22d61e15.js"
+  ]
+}
