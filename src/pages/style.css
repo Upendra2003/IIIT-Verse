@@ -1,0 +1,55 @@
+body{
+    overflow: hidden;
+}
+
+.bg{
+    display: none;
+}
+
+.logged-container{
+    margin-top: 120px;
+}
+
+@media only screen and (max-width:400px){
+    body{
+        background: #151517;
+        overflow: hidden;
+    }
+    .content{
+        font-size: 40px;
+    }
+    .logged-content{
+        font-size: 50px;
+    }
+    .bg{
+        position: absolute;
+        display: block;
+        margin-left: -60px;
+        z-index: -1;
+        transform: rotate(-5deg);
+    }
+    .typing{
+        font-size: 35px;
+    }
+    .logged-container{
+        margin: 70px 60px;
+        /* z-index: 10; */
+    }
+    .btn{
+        /* position: absolute; */
+        margin-left: 80px;
+        margin-top: -50px;
+        z-index: 1;
+    }
+    .lbtn{
+        /* position: absolute; */
+        /* margin-left: 80px; */
+        margin-top: 250px;
+        z-index: 1;
+        font-size: 15px;
+    }
+    .writing{
+        margin-top: 50px;
+        font-size: 20px;
+    }
+}
