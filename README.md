@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Layout](https://user-images.githubusercontent.com/96371563/206863547-171849c0-3cb7-4018-8910-9f8a32bc4b56.png)
 
+## Link
+
+https://iiit-verse.netlify.app/
 
 ## Available Scripts
 
