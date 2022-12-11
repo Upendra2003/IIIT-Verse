@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Link
 
+### `IIIT-Verse`
+
 https://iiit-verse.netlify.app/
 
 ## Available Scripts
